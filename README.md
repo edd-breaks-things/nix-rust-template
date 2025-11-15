@@ -1,5 +1,7 @@
 # Rust with Nix Template
 
+[![CI](https://github.com/edd-breaks-things/nix-rust-template/actions/workflows/ci.yml/badge.svg)](https://github.com/edd-breaks-things/nix-rust-template/actions/workflows/ci.yml)
+
 A simple GitHub template for Rust projects using Nix flakes. Get started with Rust development quickly with a reproducible environment.
 
 ## Quick Start
